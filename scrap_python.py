@@ -1,7 +1,7 @@
 import os, time
 
 #program introduces itself
-name = input("Hi...\n")
+name = input("Hi...Who are you?\n")
 time.sleep(2)
 print("\nHi " + name + "!\n")
 time.sleep(2)
