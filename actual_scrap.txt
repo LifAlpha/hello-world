@@ -1,0 +1,2 @@
+#here's where actual scrapped code will go while the scrap program is being built
+#the scrap program will eventually replace the need for this file or will generate & maintain its own scrap files
